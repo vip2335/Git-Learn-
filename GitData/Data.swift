@@ -6,3 +6,7 @@
 //
 
 import Foundation
+class Data {
+    
+    var date:String?
+}
