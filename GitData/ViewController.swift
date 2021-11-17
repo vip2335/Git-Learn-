@@ -13,12 +13,16 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print ("hello world")
         setUp()
-        
+        set()
         // Do any additional setup after loading the view.
     }
 func setUp()
     {
         print("hi github")
+    }
+    func set()
+    {
+        print("git")
     }
 
 }
