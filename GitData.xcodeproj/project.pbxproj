@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5E5489812744D401007EA59F /* .gitignore.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 5E5489802744D401007EA59F /* .gitignore.rtf */; };
+		5E5489832744D42E007EA59F /* Secret.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 5E5489822744D42E007EA59F /* Secret.rtf */; };
 		5ED831C62743E20200602133 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED831C52743E20200602133 /* AppDelegate.swift */; };
 		5ED831C82743E20200602133 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED831C72743E20200602133 /* SceneDelegate.swift */; };
 		5ED831CA2743E20300602133 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED831C92743E20300602133 /* ViewController.swift */; };
@@ -17,6 +19,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5E5489802744D401007EA59F /* .gitignore.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = .gitignore.rtf; sourceTree = "<group>"; };
+		5E5489822744D42E007EA59F /* Secret.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = Secret.rtf; sourceTree = "<group>"; };
 		5ED831C22743E20200602133 /* GitData.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitData.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5ED831C52743E20200602133 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5ED831C72743E20200602133 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +70,8 @@
 				5ED831D02743E21B00602133 /* LaunchScreen.storyboard */,
 				5ED831D32743E21B00602133 /* Info.plist */,
 				5ED831D92743E7B600602133 /* Data.swift */,
+				5E5489802744D401007EA59F /* .gitignore.rtf */,
+				5E5489822744D42E007EA59F /* Secret.rtf */,
 			);
 			path = GitData;
 			sourceTree = "<group>";
@@ -130,6 +136,8 @@
 			files = (
 				5ED831D22743E21B00602133 /* LaunchScreen.storyboard in Resources */,
 				5ED831CF2743E21B00602133 /* Assets.xcassets in Resources */,
+				5E5489812744D401007EA59F /* .gitignore.rtf in Resources */,
+				5E5489832744D42E007EA59F /* Secret.rtf in Resources */,
 				5ED831CD2743E20300602133 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
